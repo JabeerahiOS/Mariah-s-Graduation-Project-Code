@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "127D60C01242B6FDA3828473C75BA9F5840FFBD4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "127D60C01242B6FDA3828473C75BA9F5840FFBD4" : 0,
+    "8BB220146161A34CF61C2BF6E6F11E147BEA35FD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2BEF9138-64AE-4A2A-B0B7-7620B5A311C2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "127D60C01242B6FDA3828473C75BA9F5840FFBD4" : "BWTest\/",
+    "8BB220146161A34CF61C2BF6E6F11E147BEA35FD" : "BWTest\/BusinessWallet\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BusinessWallet",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BusinessWallet.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BusinessWallet\/Testing.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "127D60C01242B6FDA3828473C75BA9F5840FFBD4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BusinessWallet\/Testing.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8BB220146161A34CF61C2BF6E6F11E147BEA35FD"
+    }
+  ]
+}
